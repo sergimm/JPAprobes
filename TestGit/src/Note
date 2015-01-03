@@ -6,4 +6,8 @@ Add from Git
 Git-->local repository 27 dec 21:00
 Hi, from 02 Jan (Git say)
 it's me
+<<<<<<< HEAD
 
+=======
+last try
+>>>>>>> refs/remotes/origin/master
