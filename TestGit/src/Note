@@ -3,10 +3,6 @@ Now I change from Git :)
 New change to try with Pull instead fetch and merge ;)
 Add from local -eclipse
 Add from Git
-<<<<<<< HEAD
-
-new add 23 dec 21:01
-=======
 Git-->local repository 27 dec 21:00
 Hi, from 02 Jan (Git say)
->>>>>>> refs/remotes/origin/master
+
